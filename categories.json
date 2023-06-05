@@ -1,0 +1,26 @@
+[
+  {
+  "category": "Gastronomía",
+  "description": "Preguntas relacionadas con comida, recetas, ingredientes y aspectos culinarios."
+  },
+  {
+  "category": "Moda",
+  "description": "Preguntas relacionadas con tendencias, diseñadores, estilos y prendas de vestir."
+  },
+  {
+  "category": "Viajes",
+  "description": "Preguntas relacionadas con destinos turísticos, consejos de viaje y experiencias culturales en diferentes lugares del mundo."
+  },
+  {
+  "category": "Música",
+  "description": "Preguntas relacionadas con géneros musicales, artistas, bandas y aspectos relacionados con la música."
+  },
+  {
+  "category": "Medicina",
+  "description": "Preguntas relacionadas con la salud, enfermedades, tratamientos médicos y avances en el campo de la medicina."
+  },
+  {
+  "category": "Psicología",
+  "description": "Preguntas relacionadas con el comportamiento humano, procesos mentales, emociones y aspectos psicológicos."
+  }
+  ]
